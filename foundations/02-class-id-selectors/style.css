@@ -1,0 +1,19 @@
+.para {
+    background: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#divOne {
+   color: blue;
+   font-size: 36px; 
+}
+
+#divTwo {
+    background: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.special {
+    font-size: 24px;
+}
